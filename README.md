@@ -1,4 +1,4 @@
-### Meet-Scheduler
+### Calendars-Scheduler
 
  This AI-agent application that optimizes users' schedules by analyzing their calendars, offering personalized health feedback, and providing actionable suggestions to improve well-being.
 
