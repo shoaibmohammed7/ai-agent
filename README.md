@@ -1,14 +1,6 @@
-# Turborepo starter
+### Meet-Scheduler
 
-This Turborepo starter is maintained by the Turborepo core team.
-
-## Using this example
-
-Run the following command:
-
-```sh
-npx create-turbo@latest
-```
+ This AI-agent application that optimizes users' schedules by analyzing their calendars, offering personalized health feedback, and providing actionable suggestions to improve well-being.
 
 ## What's inside?
 
